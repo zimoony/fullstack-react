@@ -31,6 +31,8 @@ or even a more complicated structure composing child components defining used mi
 
 ### Usage
 
+The code is full of hacks to make it work. I basically use the server side rendering approach of React providing a chained process of interpreting components from parents to children.
+
 Clone repository and then do:
  
 ```
