@@ -38,6 +38,8 @@ npm install
 npm start
 ```
 
+Then enter http://localhost:3000 in any browser.
+
 ### Intention
 
 With this approach we could end up in a kind of fullstack React development experience. Think not only of Express, it could be anything like it. 
@@ -106,7 +108,7 @@ Using JSX we have the same server architecture described in 4 lines of code. Mid
 
 ### Pros and Cons
  
-In my opinion the JSX way is much clearer when it comes to read or design an server architicture. Your are kind of forced to separate handler functions in two areas as we are used to when designing UI with React.
+In my opinion the JSX way is much clearer when it comes to read or design an architecture. Your are kind of forced to separate handler functions in two areas as we are used to when designing UI with React.
  
 Of course the drawback is that we need wrapper components for certain functionality. But actually it is very easy to do that since they just push forward props as parameters. 
 
