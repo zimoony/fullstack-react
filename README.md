@@ -29,6 +29,15 @@ or even a more complicated structure composing child components defining used mi
  </Express>
 ```
 
+### Usage
+
+Clone repository and then do:
+ 
+```
+npm install
+npm start
+```
+
 ### Intention
 
 With this approach we could end up in a kind of fullstack React development experience. Think not only of Express, it could be anything like it. 
